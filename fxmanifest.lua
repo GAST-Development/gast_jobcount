@@ -6,7 +6,7 @@ lua54 'yes'
 
 author 'G.A.S.T. Development - andrejkm'
 
-version "v1.0.0"
+version "v1.0.1"
 
 description  'The script tracks players on duty by their job and updates data on player connect, job change, or disconnect.'
 
