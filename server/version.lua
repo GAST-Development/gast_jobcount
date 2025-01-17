@@ -1,4 +1,4 @@
-local resourceName = 'gast_jobshops'
+local resourceName = 'gast_jobcount'
 local currentVersion = GetResourceMetadata(resourceName, 'version', 0)
 
 -- Check if current version is outdated
