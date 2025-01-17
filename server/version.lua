@@ -24,6 +24,6 @@ local function CheckVersion()
     end)
 end
 
-if Config.Setup.version then
+if Config.VersionCheck then
     CheckVersion()
 end
